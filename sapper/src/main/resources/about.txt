@@ -1,0 +1,33 @@
+=== Sapper Game - About ===
+
+This application was created as an educational project for learning Java and JavaFX programming.
+
+Credits:
+- Game concept: Classic Minesweeper adapted with Minecraft theme
+- Author: TaurineManiac
+- Version: 1.0
+
+Resources used:
+- Minecraft-themed font: Licensed for personal/educational use
+- Game textures: Sourced from open internet resources
+
+Important Notice:
+This game is NOT FOR COMMERCIAL USE. It was created solely for educational purposes and personal enjoyment. 
+All Minecraft-related assets are property of their respective owners and are used here under fair use principles for educational purposes.
+
+Future Development Plans:
+The project will continue to evolve with more Minecraft-themed features:
+- Addition of Minecraft block textures
+- Themed sound effects and background music
+- Minecraft-style UI improvements
+- File handling (saving best scores/last game)
+- Creating an executable (.exe) file
+- Separating all styles into a CSS file
+- Making the project structure more modular
+- Implementing different access levels
+
+Special Thanks:
+To the JavaFX community and open-source developers whose libraries and examples made this project possible.
+
+Contact:
+You can contact me on Telegram (@Desertvolga) or Instagram (@ignatjostar)
