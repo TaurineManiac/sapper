@@ -34,9 +34,9 @@ I moved it [here](./ListOfClasses.md).
 ## Implementation Features
 
 1. **Three difficulty levels**:
-    - Easy (9x9, 10 mines)
-    - Medium (16x16, 40 mines)
-    - Hard (16x30, 99 mines)
+    - Easy (9x9, max 30 mines)
+    - Medium (16x16, max 80 mines)
+    - Hard (16x30, max 180 mines)
 
 2. **Intuitive interface**:
     - Left click - reveal cell
@@ -84,5 +84,6 @@ The project will continue to evolve with more Minecraft-themed features:
 ## Conclusion
 
 This project provided excellent practice for applying Java knowledge. Particularly valuable was the experience with event handling and creating interactive interfaces. Developing Minesweeper helped deepen my understanding of object-oriented programming principles and the importance of clear application architecture.
+
 
 
